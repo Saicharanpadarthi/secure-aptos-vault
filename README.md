@@ -1,3 +1,50 @@
+## Project Title
+Decentralized Encrypted File Sharing 
+
+## Selectedv Domain
+Cyber Security
+
+Sure! Here's a concise **Problem Statement** and **Use Case** for the **Martian Aptos & Sui Wallet Extension** project:
+
+## ❗ Problem Statement
+
+With the rise of new-generation blockchains like **Aptos** and **Sui**, users and developers face a lack of secure, easy-to-use wallet solutions that support these ecosystems. Most existing wallets are either limited in functionality or do not offer seamless multi-chain support, making it difficult for users to interact with decentralized apps (dApps), manage assets, or explore Web3.
+
+## 💡 Use Case
+
+The **Martian Wallet Extension** allows users to:
+
+ **Create and manage wallets** for Aptos and Sui blockchains.
+ **Send and receive tokens/NFTs** securely.
+ **Connect to dApps** and perform blockchain transactions directly from the browser.
+ **Switch between networks** effortlessly.
+ Enable **developers** to build and test dApps with wallet integration support.
+
+## 📄 Abstract
+
+The **Martian Wallet Extension** is a browser-based crypto wallet designed to interact seamlessly with the **Aptos** and **Sui** blockchains. It provides users with a secure and user-friendly interface to store, send, and receive digital assets, manage NFTs, and interact with decentralized applications (dApps). With features like network switching, secure private key management, and real-time blockchain interaction, Martian serves as a gateway for users to explore and participate in the next generation of decentralized ecosystems.
+
+---
+
+## ❗ Problem Description
+
+As blockchain technology continues to grow, users face challenges in interacting with decentralized ecosystems due to:
+
+**Complex wallet setup processes**
+**Lack of user-friendly interfaces**
+**Limited support for emerging blockchains like Aptos and Sui**
+**Security concerns with private key management**
+**Inability to seamlessly switch between blockchain networks**
+
+The **Martian Wallet Extension** addresses these issues by offering:
+
+ A simple and intuitive wallet setup
+ Support for both **Aptos** and **Sui** networks
+ Secure key storage and recovery phrase protection
+ Easy integration with dApps and token management
+ A fast and responsive user experience tailored for Web3 users
+
+
 ## 📝 Project Explanation
 
 Welcome to your Lovable project! This is a modern web application built with the latest and greatest frontend technologies to help you build fast, responsive, and beautiful user interfaces.
