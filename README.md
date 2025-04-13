@@ -1,7 +1,7 @@
-## Project Title
+## 📌  Title
 Decentralized Encrypted File Sharing 
 
-## Selectedv Domain
+## 🌐 Selected Domain
 Cyber Security
 
 Sure! Here's a concise **Problem Statement** and **Use Case** for the **Martian Aptos & Sui Wallet Extension** project:
