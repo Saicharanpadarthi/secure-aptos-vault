@@ -147,5 +147,25 @@ Sure! Here's a short and clean **Installation & Setup** section for the **Martia
 
 ---
 
+## Output
+
+![Screenshot (16)](https://github.com/user-attachments/assets/411a1554-ed52-4210-83b3-62a880bcb168)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/d193dff4-dae2-4509-aafc-89e39e495daa)
+
+![Screenshot 2025-04-13 100741](https://github.com/user-attachments/assets/e7b140cb-09c5-4a07-9d62-67cef1c35d1e)
+
+![Screenshot 2025-04-13 100822](https://github.com/user-attachments/assets/17251a2c-c049-470a-9348-17cd9fd58832)
+
+![Screenshot 2025-04-13 102457](https://github.com/user-attachments/assets/9f47f644-c4c3-4e7d-9469-6e0d6b83843b)
+
+![Screenshot 2025-04-13 102534](https://github.com/user-attachments/assets/d2aa8e77-3ddd-4f84-9cc5-e035d7a11c58)
+
+
+
+
+
+
+
 
 
