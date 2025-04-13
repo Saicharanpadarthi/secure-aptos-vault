@@ -1,73 +1,104 @@
-# Welcome to your Lovable project
+## 📝 Project Explanation
 
-## Project info
+Welcome to your Lovable project! This is a modern web application built with the latest and greatest frontend technologies to help you build fast, responsive, and beautiful user interfaces.
 
-**URL**: https://lovable.dev/projects/edc69c2b-b75c-48d7-9b03-dfb656c2d727
+### 🔧 Technologies Used
 
-## How can I edit this code?
+Here’s a quick rundown of the tools and technologies that power this project:
+**Vite** – A super-fast development build tool.
+**React** – For creating dynamic and interactive user interfaces.
+**TypeScript** – Helps catch errors early with type checking.
+**Tailwind CSS** – Makes it easy to build responsive and clean UIs.
+**shadcn/ui** – A set of ready-to-use UI components built with accessibility in mind.
 
-There are several ways of editing your application.
 
-**Use Lovable**
+### 🗂️ What’s Inside the Project?
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/edc69c2b-b75c-48d7-9b03-dfb656c2d727) and start prompting.
+The project is neatly organized to help you find your way around easily:
 
-Changes made via Lovable will be committed automatically to this repo.
+**`public/`** – Contains static files like images, icons, and other assets that don’t change.
+**`src/components/`** – Reusable UI pieces like buttons, modals, and form elements.
+**`src/pages/`** – Each file here represents a page in your app (like Home, About, etc.).
+**`src/app/`** – This is where the app layout, routing, and global state live.
+**`src/lib/`** – Utility functions or services you might need across your app.
+**`src/styles/`** – Tailwind and custom CSS to make your app look awesome.
+**`main.tsx`** – This is the entry point where your app starts running.
+**`index.html`** – The base HTML template for your app.
+**`tailwind.config.ts`** – Config file for customizing Tailwind.
+**`vite.config.ts`** – Vite setup configuration.
+**`tsconfig.json`** – Tells TypeScript how to understand your code.
+**`package.json`** – Lists all the packages and scripts your project uses.
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🚀 Getting Started (in simple steps)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+1. **Clone the repo:**
+   ```bash
+   git clone <your_project_git_url>
+   ```
 
-Follow these steps:
+2. **Move into the project folder:**
+   ```bash
+   cd <your_project_name>
+   ```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+3. **Install all dependencies:**
+   ```bash
+   npm install
+   ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+4. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
 
-# Step 3: Install the necessary dependencies.
-npm i
+That’s it! Your project will open in the browser and auto-reload whenever you make changes.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+Here's a short and stylish description for the **Martian Aptos & Sui Wallet Extension** you can use:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🚀 Martian Aptos & Sui Wallet Extension
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+**Martian Wallet** is a browser extension that lets users securely manage, store, and interact with **Aptos** and **Sui** blockchain assets. It enables seamless transactions, dApp connections, and token management — all from your browser.
 
-## What technologies are used for this project?
+🔐 **Key Features:**
+- Multi-chain support for **Aptos** & **Sui**
+- Secure key storage and seed phrase encryption
+- Smooth integration with dApps
+- Token transfers and NFT support  
+- Intuitive, user-friendly interface
 
-This project is built with:
+Perfect for both developers and crypto users exploring the Aptos and Sui ecosystems!
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+Sure! Here's a short and clean **Installation & Setup** section for the **Martian Aptos & Sui Wallet Extension**:
 
-Simply open [Lovable](https://lovable.dev/projects/edc69c2b-b75c-48d7-9b03-dfb656c2d727) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 🛠️ Installation & Setup
 
-Yes it is!
+1. **Install the Extension:**
+   - Go to the [Chrome Web Store](https://chrome.google.com/webstore/) or [Martian official site](https://www.martianwallet.xyz/)  
+   - Search for **"Martian Wallet"** and click **Add to Chrome**
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+2. **Create or Import Wallet:**
+   - Open the extension after installation  
+   - Click **Create New Wallet** or **Import Existing Wallet**  
+   - Securely save your recovery phrase 🔒
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+3. **Select Network:**
+   - Choose between **Aptos** or **Sui** network from the wallet dropdown
+
+4. **Start Using:**
+   - Send/receive tokens  
+   - Connect to dApps  
+   - Manage NFTs and interact with the blockchain 🚀
+
+---
+
+
+
